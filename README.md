@@ -4,6 +4,8 @@
 - Redux + Redux Persist
 - Responsive sidebar
 
+###[Live Demo](https://react-starter-git-main-selmancn.vercel.app/)
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
