@@ -4,6 +4,10 @@
 - Redux + Redux Persist
 - Responsive sidebar
 
+## Yapılacaklar
+- sidebar menü için navjs oluşturulacak
+- role bazlı router yapılacak
+
 ### [Live Demo](https://react-starter-git-main-selmancn.vercel.app/)
 
 # React + TypeScript + Vite
