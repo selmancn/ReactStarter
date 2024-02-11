@@ -4,7 +4,7 @@
 - Redux + Redux Persist
 - Responsive sidebar
 
-###[Live Demo](https://react-starter-git-main-selmancn.vercel.app/)
+### [Live Demo](https://react-starter-git-main-selmancn.vercel.app/)
 
 # React + TypeScript + Vite
 
